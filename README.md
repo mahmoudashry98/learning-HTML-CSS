@@ -13,9 +13,6 @@ A simple project for learning HTML and CSS. This project includes a basic webpag
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
