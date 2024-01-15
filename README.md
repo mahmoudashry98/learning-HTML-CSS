@@ -36,6 +36,4 @@ Before you begin, ensure you have met the following requirements:
 git clone https://github.com/mahmoudashry98/learning-HTML-CSS.git
 
 
-![screenshot-127 0 0 1_5501-2024 01 15-05_12_34](https://github.com/mahmoudashry98/learning-HTML-CSS/assets/83143927/4ef89831-539a-479c-bc57-fa1bbf470fd7)
-
 
