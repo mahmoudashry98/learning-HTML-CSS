@@ -155,20 +155,6 @@ h2::after {
   border-radius: 3px;
 }
 
-ul,
-ol {
-  list-style: none;
-}
-
-li::before {
-  content: "";
-  width: 10px;
-  height: 10px;
-  background-color: blue;
-  margin-right: 10px;
-  display: inline-block;
-}
-
 [dir="rtl"] a:link {
   margin-left: 30px;
   margin-right: 0;
